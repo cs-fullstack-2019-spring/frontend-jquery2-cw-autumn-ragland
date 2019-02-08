@@ -1,0 +1,9 @@
+/*background class*/
+.blueBack{
+    background: blue;
+}
+/*header size class*/
+.shrink{
+    width: 20px;
+    height: 20px;
+}
